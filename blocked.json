@@ -3,6 +3,7 @@
     "rules": [
         {
             "domain": [
+                "cdn.cookielaw.org",
                 "7box.vip",
                 "ad-delivery.net",
                 "adinplay.com",
@@ -1431,6 +1432,7 @@
                 ".shuzilm.cn"
             ],
             "domain_regex": [
+                "^safebrowsing\\..+",
                 "^adservice\\.google\\.([a-z]{2}|com?)(\\.[a-z]{2})?$",
                 "^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$",
                 "^pinggai\\d\\.caixin\\.com$"
