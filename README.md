@@ -1,5 +1,5 @@
 
-Data Source:
-https://raw.githubusercontent.com/xmdhs/sing-geosite/rule-set/geosite-category-ads-all.json
-https://raw.githubusercontent.com/xmdhs/sing-geosite/rule-set/geosite-geolocation-!cn.json
+Data Source:  
+https://raw.githubusercontent.com/xmdhs/sing-geosite/rule-set/geosite-category-ads-all.json  
+https://raw.githubusercontent.com/xmdhs/sing-geosite/rule-set/geosite-geolocation-!cn.json  
 https://raw.githubusercontent.com/xmdhs/sing-geosite/rule-set/geosite-cn.json
