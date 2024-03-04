@@ -3,6 +3,12 @@
     "rules": [
         {
             "domain": [
+                "yun-hl.3g.qq.com",
+                "device-metrics-us.amazon.com",
+                "crashlyticsreports-pa.googleapis.com",
+                "firebase-settings.crashlytics.com",
+                "up-hl.3g.qq.com",
+                "api.segment.io",
                 "cdn.cookielaw.org",
                 "7box.vip",
                 "ad-delivery.net",
