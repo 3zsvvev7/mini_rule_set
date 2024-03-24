@@ -14500,22 +14500,22 @@
                 "^ntp([1-7])?.aliyun.com$",
                 "^ntp([1-5])?.tencent.com$",
                 "^(.+\\.)*zh\\.okaapps\\.com$",
-                "+\\.awsdns-cn-[0-9][0-9]\\.biz$",
-                "+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$",
-                "+\\.awsdns-cn-[0-9][0-9]\\.com$",
-                "+\\.awsdns-cn-[0-9][0-9]\\.net$",
-                "+\\.awsdns-cn-[0-9][0-9]\\.top$",
-                "+\\.awsdns-[0-9][0-9]\\.co\\.uk$",
-                "+\\.awsdns-[0-9][0-9]\\.com$",
-                "+\\.awsdns-[0-9][0-9]\\.net$",
-                "+\\.awsdns-[0-9][0-9]\\.org$",
+                ".+\\.awsdns-cn-[0-9][0-9]\\.biz$",
+                ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$",
+                ".+\\.awsdns-cn-[0-9][0-9]\\.com$",
+                ".+\\.awsdns-cn-[0-9][0-9]\\.net$",
+                ".+\\.awsdns-cn-[0-9][0-9]\\.top$",
+                ".+\\.awsdns-[0-9][0-9]\\.co\\.uk$",
+                ".+\\.awsdns-[0-9][0-9]\\.com$",
+                ".+\\.awsdns-[0-9][0-9]\\.net$",
+                ".+\\.awsdns-[0-9][0-9]\\.org$",
                 "^a[1-5]\\.mzstatic\\.com$",
                 "^cl[1-5]-cdn\\.origin-apple\\.com\\.akadns\\.net$",
                 "^is[1-5](-ssl)?\\.mzstatic\\.com$",
                 "^s[1-5]?\\.mzstatic\\.com$",
                 "^adservice\\.google\\.([a-z]{2}|com?)(\\.[a-z]{2})?$",
-                "+\\.azchcdn[a-s]\\.com$",
-                "+\\.azure-dns-([1-9]|10)\\.cn$"
+                ".+\\.azchcdn[a-s]\\.com$",
+                ".+\\.azure-dns-([1-9]|10)\\.cn$"
             ]
         }
     ]
