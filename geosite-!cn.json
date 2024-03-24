@@ -2,7 +2,9 @@
     "version": 1,
     "rules": [
         {
-
+            "domain": [
+                "youtu.be"
+            ],
             "domain_suffix": [
                 "substackcdn.com",
                 "substack.com",
@@ -326,7 +328,7 @@
                 "artstationmedia.com",
                 "dribbble.com",
                 "dynacw.com",
-                "flickr",
+                ".flickr",
                 "flickr.com",
                 "flickr.net",
                 "staticflickr.com",
@@ -3202,7 +3204,7 @@
                 "webnovel.com",
                 "wwe.com",
                 "wwe9.com",
-                "youtube",
+                ".youtube",
                 "ggpht.com",
                 "googlevideo.com",
                 "withyoutube.com",
@@ -13572,7 +13574,7 @@
                 "oculusvr.com",
                 "powersunitedvr.com",
                 "meta.com",
-                "azure",
+                ".azure",
                 "21vbc.com",
                 "21vbluecloud.com",
                 "21vbluecloud.net",
