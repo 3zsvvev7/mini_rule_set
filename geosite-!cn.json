@@ -4,11 +4,14 @@
         {
             "domain": [
                 "t.co",
+                "t.me",
                 "youtu.be"
             ],
             "domain_suffix": [
+                "plex.tv",
                 "substackcdn.com",
                 "substack.com",
+                "twilio.com",
                 "io.net",
                 "io.systems",
                 "readcube.com",
@@ -1173,7 +1176,6 @@
                 "fragment.com",
                 "graph.org",
                 "quiz.directory",
-                "t.me",
                 "tdesktop.com",
                 "telega.one",
                 "telegram-cdn.org",
