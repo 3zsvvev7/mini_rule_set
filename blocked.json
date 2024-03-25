@@ -8,7 +8,6 @@
 "umengacs.m.taobao.com",
 "ads.cup.com.cn",
 "mssdk-bu.bytedance.com",
-
 "dns.qq.com",
 "httpsdns.baidu.com",
 "dns.alidns.com",
@@ -64,7 +63,6 @@
 "dnsin.in.zapto.xyz",
 "dns1.dimassa.net",
 "dotserver.douyucdn.cn",
-
 "tpstelemetry.tencent.com",
 "track.xiachufang.com",
 "trackbeat.xiachufang.com",
@@ -107,20 +105,21 @@
 "miui-fxcse.avlyun.com",
 "api.installer.xiaomi.com",
 "ping.pinyin.sogou.com",
-
 "o2o.api.xiaomi.com",
 "sdkconfig.ad.xiaomi.com",
 "otheve.beacon.qq.com",
-
 "yun-hl.3g.qq.com",
 "device-metrics-us.amazon.com",
 "crashlyticsreports-pa.googleapis.com",
 "firebase-settings.crashlytics.com",
-"api.segment.io",
 "cdn.cookielaw.org"
-
             ],
             "domain_suffix": [
+"sentry.io",
+"segment.io",
+"omtrdc.net",
+"kuiniuca.com",
+"alibabachengdun.com",
 "dns.cross.gt",
 "compute.hwclouds-dns.com",
 "dns-detect.alicdn.com",
