@@ -95,7 +95,6 @@
 "dorangesource.alicdn.com",
 "cgicol.amap.com",
 "applog.uc.cn",
-"log.mmstat.com",
 "up-hl.3g.qq.com",
 "dig.bdurl.net",
 "ib.snssdk.com",
@@ -116,6 +115,7 @@
 "cdn.cookielaw.org"
             ],
             "domain_suffix": [
+"mmstat.com",
 "sentry.io",
 "segment.io",
 "omtrdc.net",
@@ -127,7 +127,7 @@
 "mcdn.bilivideo.cn",
 "bjmantis.net",
 "nrb.footprintdns.com",
-
+"doh.pub",
                 "umeng.com",
                 "umeng.co",
                 "umengcloud.com",
