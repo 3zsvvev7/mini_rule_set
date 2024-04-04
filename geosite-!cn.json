@@ -3,11 +3,11 @@
     "rules": [
         {
             "domain": [
-                "t.co",
                 "t.me",
                 "youtu.be"
             ],
             "domain_suffix": [
+                "t.co",
                 "plex.tv",
                 "substackcdn.com",
                 "substack.com",
@@ -19,7 +19,6 @@
                 "yahoo.com",
                 "cdn-apple.com",
                 "akamaized.net",
-                "apple.com.akadns.net",
                 "apple.com",
                 "amazonaws.com",
                 "facebook.com",
