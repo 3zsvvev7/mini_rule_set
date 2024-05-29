@@ -7,8 +7,10 @@
                 "youtu.be"
             ],
             "domain_suffix": [
+                "cloudflare.dev",
                 "chatgpt.com",
                 "livekit.cloud",
+                "arkoselabs.com",
                 "nextdns.io",
                 "therarbg.com",
                 "t.co",
