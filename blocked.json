@@ -3,6 +3,12 @@
     "rules": [
         {
             "domain": [
+"device-metrics-us-2.amazon.com",
+"collector.github.com",
+"mads.amazon.com",
+"metrics.icloud.com",
+"static.cloudflareinsights.com",
+"jnn-pa.googleapis.com",
 "umami.diygod.dev",
 "umeng.com.gds.alibabadns.com",
 "umengjmacs.m.taobao.com",
