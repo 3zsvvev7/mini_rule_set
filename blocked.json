@@ -100,10 +100,10 @@
 "yun-hl.3g.qq.com",
 "device-metrics-us.amazon.com",
 "crashlyticsreports-pa.googleapis.com",
-"firebase-settings.crashlytics.com",
 "cdn.cookielaw.org"
             ],
             "domain_suffix": [
+"crashlytics.com",
 ".mmstat.com",
 "sentry.io",
 "segment.io",

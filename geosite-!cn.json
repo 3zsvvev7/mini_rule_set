@@ -7,6 +7,9 @@
                 "youtu.be"
             ],
             "domain_suffix": [
+                "githubcopilot.com",
+                "claude.ai",
+                "anthropic.com",
                 "cloudflare.dev",
                 "chatgpt.com",
                 "livekit.cloud",
