@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "rules": [
+        {
+        "domain_suffix": [
+            "qpic.cn",
+            "weixin.qq.com.cn",
+            "weixin.qq.com",
+            "weixin.com",
+            "wechat.com"
+        ]
+        }
+    ]
+}
