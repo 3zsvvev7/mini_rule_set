@@ -3,11 +3,11 @@
     "rules": [
         {
         "domain_suffix": [
-            "googleapis.cn"
-            // "weixin.qq.com.cn",
-            // "weixin.qq.com",
-            // "weixin.com",
-            // "wechat.com"
+            // "googleapis.cn"
+            "weixin.qq.com.cn",
+            "weixin.qq.com",
+            "weixin.com",
+            "wechat.com"
         ]
         }
     ]
