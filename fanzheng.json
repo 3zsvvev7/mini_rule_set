@@ -3,6 +3,7 @@
     "rules": [
         {
         "domain_suffix": [
+            "voovmeeting.com",
             "weixin.qq.com.cn",
             "weixin.qq.com",
             "weixin.com",
