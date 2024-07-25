@@ -235,6 +235,9 @@
                 "data.vod.itc.cn"
             ],
             "domain_suffix": [
+"smaato.net",
+"browser-intake-datadoghq.com",
+"gvt2.com",
 "crashlytics.com",
 ".mmstat.com",
 "sentry.io",
