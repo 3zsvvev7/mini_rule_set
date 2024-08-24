@@ -1,12 +1,15 @@
 {
     "version": 1,
-    "rules": [
+    "rules":
+    [
         {
-            "domain": [
+            "domain":
+            [
                 "t.me",
                 "youtu.be"
             ],
-            "domain_suffix": [
+            "domain_suffix":
+            [
                 "talkatone.com",
                 "githubcopilot.com",
                 "anthropic.com",
@@ -3229,8 +3232,6 @@
                 "fcaebook.com",
                 "fcebook.com",
                 "feacbook.com",
-
-
                 "fpacebook.com",
                 "fqcebook.com",
                 "fracebook.com",
@@ -4298,7 +4299,6 @@
                 "w3.org",
                 "who.int",
                 "wto.org",
-
                 "acgcf.com",
                 "acgdg.com",
                 "acgdv.com",
@@ -7809,7 +7809,8 @@
                 "xdty.org",
                 "xingrz.me"
             ],
-            "domain_regex": [
+            "domain_regex":
+            [
                 "^cdn-akamai-.+\\.gog-services\\.com$",
                 "^images(-\\d)?\\.gog-statics\\.com$",
                 "^ewcdn[0-9]{2}\\.nowe\\.com$",

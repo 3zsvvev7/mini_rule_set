@@ -1,14 +1,16 @@
 {
     "version": 1,
-    "rules": [
+    "rules":
+    [
         {
-        "domain_suffix": [
-            "voovmeeting.com",
-            "weixin.qq.com.cn",
-            "weixin.qq.com",
-            "weixin.com",
-            "wechat.com"
-        ]
+            "domain_suffix":
+            [
+                "voovmeeting.com",
+                "weixin.qq.com.cn",
+                "weixin.qq.com",
+                "weixin.com",
+                "wechat.com"
+            ]
         }
     ]
 }

@@ -1,10 +1,12 @@
 {
     "version": 1,
-    "rules": [
+    "rules":
+    [
         {
-        "domain_suffix": [
-            "googleapis.cn"
-        ]
+            "domain_suffix":
+            [
+                "googleapis.cn"
+            ]
         }
     ]
 }
